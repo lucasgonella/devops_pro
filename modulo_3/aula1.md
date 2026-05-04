@@ -14,3 +14,20 @@
 - diff  <arquivo1> <arquivo2>   = diferença entre os arquivos "Arquivo 1" é o original "Arquivo 2" é o testado. se vier < é que falta no testado(ou está a mais no original), se vier > falta no original(ou está a mais no testado) 
 - diff -u <arquivo1> <arquivo2> = diferença mostrando as linhas --- +++, mostrando sempre em relação ao arquivo1 se precisa tirar ou colocar. (O que ta de diferente)
 
+
+##  Tudo sobre o VIM
+- yy = copia linha toda
+- p = colar (paste)
+- yw = palavra que esta no curso é copiada
+- y<n>y = copia n linhas
+- y<n>w = copia n palavras 
+- d<n>d = deleta n linhas
+- d<n>w = deleta n palavras
+- o = inserção na linha de baixo
+- O = inserção na linha de cima
+- I = inserção no início da linha
+- i = inserção no local do cursor
+- a = inserção 1 caracter na frente
+- A = inserção no final da linha
+- v = visual, com as setas você seleciona o texto
+- V = visual line, copia linha em linha 

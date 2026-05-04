@@ -30,4 +30,8 @@
 - a = inserção 1 caracter na frente
 - A = inserção no final da linha
 - v = visual, com as setas você seleciona o texto
-- V = visual line, copia linha em linha 
+- V = visual line, copia linha em linha
+- :split <arquivo> = divide a tela na horizontal com o outro arquivo
+- :vsplit <arquivo> = divide a tela na vertical com o outro arquivo
+- :e <arquivo> = muda pro arquivo que deseja
+- :r <arquivo> = coloca o conteudo do arquivo desejado, no arquivo atual
